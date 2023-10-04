@@ -2,7 +2,7 @@
 
 Tic-Tac-Toe game with python, tkinter and socket programming
 
-To determine server ip, you should pass it as command argument.
+To determine server IP in client, you should pass it as command argument.
 
 # Features
 
